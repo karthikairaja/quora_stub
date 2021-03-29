@@ -1,11 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff140060-5223-4137-9cdc-e4e7b36add9d" name="Default Changelist" comment="" />
+    <list default="true" id="ff140060-5223-4137-9cdc-e4e7b36add9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.annotation.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.annotation.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.ejb.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.jms.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.jms.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.persistence.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.persistence.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.resource.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.resource.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.servlet.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.servlet.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.servlet.jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/lib/javax.transaction.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/lib/javax.transaction.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/QuoraApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/QuoraApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/config/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/config/SwaggerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/controller/AnswerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/controller/AnswerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/controller/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/controller/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/java/com/upgrad/quora/api/exception/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/java/com/upgrad/quora/api/exception/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/resources/endpoints/admin.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/resources/endpoints/admin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/resources/endpoints/answer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/resources/endpoints/answer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/resources/endpoints/common.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/resources/endpoints/common.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/resources/endpoints/question.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/resources/endpoints/question.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/main/resources/endpoints/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/main/resources/endpoints/user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/test/java/com/upgrad/quora/api/controller/AdminControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/test/java/com/upgrad/quora/api/controller/AdminControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/test/java/com/upgrad/quora/api/controller/AnswerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/test/java/com/upgrad/quora/api/controller/AnswerControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/test/java/com/upgrad/quora/api/controller/CommonControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/test/java/com/upgrad/quora/api/controller/CommonControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/test/java/com/upgrad/quora/api/controller/QuestionControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/test/java/com/upgrad/quora/api/controller/QuestionControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-api/src/test/java/com/upgrad/quora/api/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-api/src/test/java/com/upgrad/quora/api/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-db/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-db/src/main/resources/config/localhost.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-db/src/main/resources/config/localhost.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-db/src/main/resources/sql/quora.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-db/src/main/resources/sql/quora.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-db/src/main/resources/sql/quora_test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-db/src/main/resources/sql/quora_test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/ServiceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/ServiceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/business/AnswerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/business/AnswerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/business/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/business/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/business/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/business/JwtTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/business/PasswordCryptographyProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/business/PasswordCryptographyProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/business/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/business/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/business/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/business/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/common/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/common/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/common/GenericErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/common/GenericErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/common/UnexpectedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/common/UnexpectedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/dao/AnswerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/dao/AnswerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/dao/QuestionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/dao/QuestionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/entity/AnswerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/entity/AnswerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/entity/QuestionEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/entity/QuestionEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/entity/UserAuthEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/entity/UserAuthEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/AnswerNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/AnswerNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/AuthenticationFailedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/AuthenticationFailedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/AuthorizationFailedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/AuthorizationFailedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/InvalidQuestionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/InvalidQuestionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/SignOutRestrictedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/SignOutRestrictedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/SignUpRestrictedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/SignUpRestrictedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trello_stub/quora-service/src/main/java/com/upgrad/quora/service/exception/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trello_quora/quora-service/src/main/java/com/upgrad/quora/service/exception/UserNotFoundException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -53,10 +118,22 @@
       <updated>1617001125617</updated>
       <workItem from="1617001126681" duration="1273000" />
       <workItem from="1617002434908" duration="195000" />
+      <workItem from="1617004048923" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
